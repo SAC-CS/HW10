@@ -28,3 +28,4 @@ public class Dice {
 	}
 }
 
+// Good job, but why the empty Constructor?
